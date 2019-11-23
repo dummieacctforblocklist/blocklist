@@ -24,7 +24,10 @@ ff02::2 ip6-allrouters
 # To use this on Windows, add it to the end of:
 # C:\Windows\System32\drivers\etc\hosts
 
-
+0.0.0.0 4chan.org
+0.0.0.0 4channel.org
+0.0.0.0 boards.4chan.org
+0.0.0.0 boards.4channel.org
 # Ads, tracking and general junk
 0.0.0.0 api.opencandy.com
 0.0.0.0 api.recommendedsw.com
