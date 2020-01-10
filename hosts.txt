@@ -24,6 +24,13 @@ ff02::2 ip6-allrouters
 # To use this on Windows, add it to the end of:
 # C:\Windows\System32\drivers\etc\hosts
 
+0.0.0.0 endchan.xyz
+0.0.0.0 8kun.top
+0.0.0.0 twitter.com
+0.0.0.0 www.shitposter.club
+0.0.0.0 www.scp-wiki.net
+0.0.0.0 shitposter.club
+0.0.0.0 scp-wiki.net
 0.0.0.0 4chan.org
 0.0.0.0 4channel.org
 0.0.0.0 boards.4chan.org
